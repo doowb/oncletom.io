@@ -1,5 +1,5 @@
-title: Regenerating an Identity
-date: 2013-12-03 22:35:55
+title: Past — Year of the Truth
+date: 2013-12-18 10:00:00
 tags:
 - introspection
 - quête
